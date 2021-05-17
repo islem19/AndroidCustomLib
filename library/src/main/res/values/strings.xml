@@ -1,2 +1,5 @@
 <resources>
+    <string name="current_time">Current Time:</string>
+    <string name="installed_on">Library installed on the %1$s</string>
+    <string name="current_time_format">HH:mm:ss dd MMM yyyy</string>
 </resources>
